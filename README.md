@@ -6,6 +6,7 @@ Veri Madenciliği dersi için verilen yıl sonu dönem ödevi.
 
 
 İstek: En çok hangi sözleşme tipindeki müşterilerin terk ettiğine dair 2 cümlelik teknik yorum.
+
 Cevap: Month-to-month (Aydan aya) sözleşme tipine sahip müşteriler, bir yıllık veya iki yıllık sözleşmesi olanlara kıyasla hem sayıca hem de oran olarak en yüksek terk (churn) oranına sahiptir. 
 Bu durum, kısa vadeli taahhütlerin müşteri sadakati üzerindeki zayıflatıcı etkisini ve bu segmentteki finansal riskin (churn olasılığının) diğer gruplara göre anlamlı derecede yüksek olduğunu göstermektedir.
 
@@ -20,4 +21,5 @@ Bu durum, kısa vadeli taahhütlerin müşteri sadakati üzerindeki zayıflatıc
 
 
 İstek: Tree Viewer çıktısına bakarak: "Şirket için en riskli müşteri profili nedir?" sorusunun cevabı.
+
 Cevap: Kısa süreli sözleşmeyle sisteme yeni dahil olmuş, yüksek fatura ödeyen ve otomatik ödeme yerine elektronik çek kullanan müşteriler.

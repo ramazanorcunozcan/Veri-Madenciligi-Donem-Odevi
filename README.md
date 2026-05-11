@@ -11,7 +11,7 @@ Bu durum, kısa vadeli taahhütlerin müşteri sadakati üzerindeki zayıflatıc
 
 
 
-İsteK: Temizlenmiş verinin Data Table üzerindeki son hali.
+İstek: Temizlenmiş verinin Data Table üzerindeki son hali.
 <img width="1600" height="899" alt="WhatsApp Image 2026-04-25 at 19 29 08" src="https://github.com/user-attachments/assets/2e1f31d1-e1c0-4dff-9afa-47b973f85781" />
 
 
